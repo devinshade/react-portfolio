@@ -30,7 +30,11 @@ Currently, two official plugins are available:
   
   ## Usage
   
-  n/a
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/0b226c14-90bb-44cb-b8ed-d1d33bbaf780/deploy-status)](https://app.netlify.com/sites/dev-react-portfolio/deploys)
+
+  [Deployed Netlify App](https://dev-react-portfolio.netlify.app/)
+
+  [Github Repo](https://github.com/devinshade/react-portfolio)
   
   ## License
   
