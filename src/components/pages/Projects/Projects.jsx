@@ -1,9 +1,9 @@
 import React from 'react'
-import "./Projects.css"
+import "./Projects.css" 
 import projectData from './data'
 import fetchApi from './utils'
-import Button from '../../components/Button'
-import ProjectCard from '../../components/ProjectCard'
+import Button from '../../Button'
+import ProjectCard from '../../ProjectCard'
 const Projects = () => {
 const handlePress = () => console.log("I'm pressed")
 

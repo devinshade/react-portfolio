@@ -1,8 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
-import Projects from './pages/Projects/Projects.jsx'
-import Home from './pages/Home.jsx'
+import Projects from './components/pages/Projects/Projects.jsx'
+import Home from './components/pages/Home.jsx'
 import './index.css'
 import {
   createBrowserRouter,
