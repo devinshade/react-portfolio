@@ -11,7 +11,7 @@ const handlePress = () => console.log("I'm pressed")
     <div>Projects</div>
     <Button text={"Press Me"} action={handlePress}/>
     <Button text= {"Touch This Button!"} action= {fetchApi}/>
-    {projectData.map(poop => <ProjectCard project={poop}/>)} 
+    {projectData.map(poop => <ProjectCard project={poop}/>)}
   </section>
   )
 }

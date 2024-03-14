@@ -8,8 +8,9 @@ class Project {
 
 // string, number, boolean, array, object, function
 const projectData = [
-    new Project("Handlebars", "it was a group project", "wwww.google.com"),
-    new Project("React", "Description of portfolio", "www.github.com")
+    new Project("Module 1 Challenge:", "Edited starter code to render accurately.", "https://devinshade.github.io/mod-1-challenge/"),
+    new Project("Project 2: Dad Joke Weather Dashboard", "Worked with a team to create a weather dashboard that displays dad jokes!", "https://devinshade.github.io/Dadhumor-Incorporated/"),
+    new Project("Project 3: Lovestruck", "Wedding Site", "https://lovestruck.onrender.com")
 
 ]
 
